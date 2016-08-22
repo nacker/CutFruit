@@ -1,0 +1,17 @@
+/Users/nacker/Desktop/u3d/CutFruit/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/nacker/Desktop/u3d/CutFruit/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/nacker/Desktop/u3d/CutFruit/obj/Debug/Assembly-CSharp.dll
+/Users/nacker/Desktop/u3d/CutFruit/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/nacker/Desktop/u3d/CutFruit/Temp/bin/Debug/UnityEngine.dll
+/Users/nacker/Desktop/u3d/CutFruit/Temp/bin/Debug/UnityEditor.dll
+/Users/nacker/Desktop/u3d/CutFruit/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/nacker/Desktop/u3d/CutFruit/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/nacker/Desktop/u3d/CutFruit/Temp/bin/Debug/Mono.Cecil.dll
+/Users/nacker/Desktop/u3d/CutFruit/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/nacker/Desktop/u3d/CutFruit/Temp/bin/Debug/Unity.DataContract.dll
+/Users/nacker/Desktop/u3d/CutFruit/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/nacker/Desktop/u3d/CutFruit/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/nacker/Desktop/u3d/CutFruit/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/nacker/Desktop/u3d/CutFruit/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/nacker/Desktop/u3d/CutFruit/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/nacker/Desktop/u3d/CutFruit/Temp/bin/Debug/Mono.Cecil.Mdb.dll
